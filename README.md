@@ -19,7 +19,7 @@
 
 ## Inspiration
 
-The "Journey Thru Code" project aims to create an engaging and interactive web experience, showcasing the power of modern web technologies. This project serves as a learning tool and a demonstration of various web development techniques.
+The "Journey Thru Code" project takes inspiration from how I started my software development journey - by simply signing up on the ALX Website and submitting my CV so you can see that I'm trying to exit the same way I entered when it comes to this project. Overall it aims to create an engaging and interactive web experience, showcasing the power of modern web technologies. This project serves as a learning tool and a demonstration of various web development techniques.
 
 ## Features
 
@@ -29,7 +29,7 @@ The "Journey Thru Code" project aims to create an engaging and interactive web e
 - **Responsive Menu**: A responsive navigation menu that adapts to different screen sizes.
 - **Form Submission**: Submit contact form data to Google Sheets and display a confirmation message.
 
-## Setup
+## Setup - Option 1
 
 1. **Clone the repository**:
    ```bash
@@ -46,6 +46,12 @@ The "Journey Thru Code" project aims to create an engaging and interactive web e
      ```
 
 4. **Open `index.html` in your browser**.
+
+## Setup - Option 2
+   
+**Click the link to view the website live**:
+
+https://seangam13.github.io/JourneyThruCode/
 
 ## Usage
 
