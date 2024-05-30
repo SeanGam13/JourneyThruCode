@@ -29,7 +29,7 @@ The "Journey Thru Code" project aims to create an engaging and interactive web e
 - **Responsive Menu**: A responsive navigation menu that adapts to different screen sizes.
 - **Form Submission**: Submit contact form data to Google Sheets and display a confirmation message.
 
-## Setup
+## Setup Option 1
 
 1. **Clone the repository**:
    ```bash
@@ -46,6 +46,11 @@ The "Journey Thru Code" project aims to create an engaging and interactive web e
      ```
 
 4. **Open `index.html` in your browser**.
+
+## Setup Option 2
+
+**Click the link below to view live**
+https://seangam13.github.io/JourneyThruCode/
 
 ## Usage
 
