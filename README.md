@@ -17,8 +17,8 @@ The "Journey Thru Code" project takes inspiration from how I started my software
 - **Responsive Design**: The website is designed to be responsive and optimized for various screen sizes.
 
 ### Setup Instructions
-1. Clone the repository: `git clone [repository_url]`
-2. Navigate to the project directory: `cd journey-through-code-react`
+1. Clone the repository: `git clone https://github.com/SeanGam13/JourneyThruCode`
+2. Navigate to the project directory: `cd journeythrucode`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the website.
