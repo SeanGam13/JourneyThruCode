@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JourneyThruCode/static/css/main.9fbc51ea.css",
+    "main.js": "/JourneyThruCode/static/js/main.f03f5d6c.js",
+    "static/media/background.jpg": "/JourneyThruCode/static/media/background.20fbc3ac66997e871d96.jpg",
+    "static/media/phone-background.jpg": "/JourneyThruCode/static/media/phone-background.7fb5c1eeba07b0391b6c.jpg",
+    "index.html": "/JourneyThruCode/index.html",
+    "main.9fbc51ea.css.map": "/JourneyThruCode/static/css/main.9fbc51ea.css.map",
+    "main.f03f5d6c.js.map": "/JourneyThruCode/static/js/main.f03f5d6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fbc51ea.css",
+    "static/js/main.f03f5d6c.js"
+  ]
+}
