@@ -1,0 +1,24 @@
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 25px;
+    color: rgb(0, 183, 255);
+    background: linear-gradient(to bottom, #333333, #000000);
+    font-weight: 300;
+    margin-top: auto; /* Updated: set margin-top to auto */
+    position: sticky; /* Updated: set position to sticky */
+    bottom: 0; /* Updated: set bottom to 0 */
+}
+
+.footer p {
+    margin: 0;
+    font-size: 14px;
+    color: #ccc;
+}
+
+/* Responsive Styles */
+@media (max-width: 480px) {
+    .footer p {
+        font-size: 12px;
+    }
+}
