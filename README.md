@@ -1,63 +1,70 @@
-## Journey Through Code - React Version
+# Getting Started with Create React App
 
-### Overview
-This project is a React version of the "Journey Through Code" personal portfolio website. It aims to recreate the functionality and design of the original static website using React components.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Inspiration
+## Available Scripts
 
-The "Journey Thru Code" project takes inspiration from how I started my software development journey - by simply signing up on the ALX Website and submitting my CV so you can see that I'm trying to exit the same way I entered when it comes to this project. Overall it aims to create an engaging and interactive web experience, showcasing the power of modern web technologies. This project serves as a learning tool and a demonstration of various web development techniques.
+In the project directory, you can run:
 
-### Features
-- **Sticky Header**: The header remains fixed at the top of the page as the user scrolls down.
-- **Smooth Scrolling**: Smooth scrolling effect is applied when navigating through sections.
-- **Tab Navigation**: Interactive tabs allow users to switch between different sections of content.
-- **Platform Navigation**: Users can navigate between different platforms (Spotify, Apple Music, etc.) to view content.
-- **Responsive Menu**: The navigation menu adapts to different screen sizes and can be toggled open/closed on small screens.
-- **Form Submission**: Users can submit inquiries via a form, which sends data to a Google Sheets backend.
-- **Responsive Design**: The website is designed to be responsive and optimized for various screen sizes.
+### `npm start`
 
-### Setup Instructions
-1. Clone the repository: `git clone https://github.com/SeanGam13/JourneyThruCode`
-2. Navigate to the project directory: `cd journeythrucode`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit `http://localhost:3000` to view the website.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Project Structure
-- **src/components**: Contains React components for different sections of the website (Header, About, Endeavors, Catalogue, Contact, Footer).
-- **src/assets**: Stores images and other static assets used in the project.
-- **src/App.js**: Main component rendering the entire website.
-- **src/index.js**: Entry point of the application.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Dependencies
-- React
-- react-router-dom (for routing between different sections)
-- Font Awesome (for icons)
-- Google Fonts (for font styling)
+### `npm test`
 
-### Usage
-Feel free to customize the components, styles, and content to suit your personal preferences and requirements. Add your own images, modify the content, or extend the functionality as needed.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Credits
-- Original design and concept by [Sean Gambanou](mailto:seangamabanou9@gmail.com)
-- This React version developed by [Sean Gambanou]
+### `npm run build`
 
-### License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal and commercial projects. However, attribution to the original author is appreciated.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Demo
-Check out the live demo [here](https://seangam13.github.io/JourneyThruCode/).
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Contribution
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or create a pull request.
+### `npm run eject`
 
-## Acknowledgements
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-I would like to express my gratitude to the following individuals and resources that helped me in creating this project:
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-- ALX Software Engineering Program for providing me with the foundation to embark on this coding journey.
-- Open-source contributors and communities for their valuable insights and contributions.
-- Stack Overflow and MDN Web Docs for their extensive documentation and helpful answers to coding questions.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
----
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
