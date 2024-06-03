@@ -1,0 +1,28 @@
+/* Catalogue Component */
+
+#catalogue {
+    padding: 60px 20px; /* Added horizontal padding */
+    text-align: center;
+    min-height: 100vh; /* Ensure the section takes up the full viewport height */
+    color: rgb(0, 183, 255);
+}
+
+.catalogue-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 40px;
+    margin-top: 50px;
+}
+
+.catalogue {
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Media Query for Small Screens */
+@media (max-width: 768px) {
+    #catalogue {
+        padding: 30px 20px; /* Adjusted padding for smaller screens */
+    }
+}
